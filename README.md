@@ -1,1 +1,1 @@
-click demo: https://kerim-yilmaz.github.io/covid19w-map/
+click demo: https://covid19w-map.herokuapp.com/
